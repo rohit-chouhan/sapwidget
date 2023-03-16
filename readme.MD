@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/SAP-Custom-Widget/SweetNotification/main/icon.png" width="100">
+<img src="https://raw.githubusercontent.com/rohit-chouhan/sapwidget/main/icon.png" width="100">
 
 ## SAPWidget
 SAPWidget is an npm package developed by Rohit Chouhan for creating custom widgets for SAP applications.
 
-![preview](https://raw.githubusercontent.com/rohit-chouhan/sapwidget/main/icon.png)
+![preview](https://raw.githubusercontent.com/rohit-chouhan/sapwidget/main/preview.png)
 
 ### Installation
 You can install SAPWidget using npm:
