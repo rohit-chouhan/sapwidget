@@ -1,0 +1,29 @@
+{
+  "name": "sapwidget",
+  "version": "1.0.0",
+  "description": "A tool to create SAC Custom Widget Easily and Fast for SAP Application.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sapwidget": "./bin/api.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "sap", " sac", " sap analytics cloud", " custom widget"
+  ],
+  "author": "Rohit Chouhan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-chouhan/sapwidget.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohit-chouhan/sapwidget/issues"
+  },
+  "homepage": "https://github.com/rohit-chouhan/sapwidget#readme",
+  "_publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
