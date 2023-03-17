@@ -25,7 +25,7 @@ if (args[0] == "" || args[0] == null) {
     console.log('█▀ ▄▀█ █▀█   █░█░█ █ █▀▄ █▀▀ █▀▀ ▀█▀');
     console.log('▄█ █▀█ █▀▀   ▀▄▀▄▀ █ █▄▀ █▄█ ██▄ ░█░');
 
-    console.log("Version:1.0.7\nDeveloped by Rohit Chouhan | linkedin.com/in/itsrohitchouhan");
+    console.log("Version:1.0.8\nDeveloped by Rohit Chouhan | linkedin.com/in/itsrohitchouhan");
 
     console.log("\n ====== Inputs =====")
     console.log("-create : create new project");
