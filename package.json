@@ -1,6 +1,6 @@
 {
   "name": "sapwidget",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool to create SAC Custom Widget Easily and Fast for SAP Application.",
   "main": "./lib/index.js",
   "scripts": {
@@ -25,5 +25,11 @@
   "homepage": "https://github.com/rohit-chouhan/sapwidget#readme",
   "_publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "localtunnel": "^2.0.2"
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2"
   }
 }
